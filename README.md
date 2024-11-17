@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70100&multiline=true&width=435&lines=Es+ist+nicht+von+Bedeutung%2C+wie+langsam+du+gehst%2C+solange+du+nicht+stehenbleibst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F76E6E&multiline=true&width=435&lines=Das+Leben+ist+kurz%2Cdie+Kunst+ist+lang)](https://git.io/typing-svg)
