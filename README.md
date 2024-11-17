@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7D700&background=FF000000&width=435&lines=ZA+WARUDO!+TOKI+WO+TOMARE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70100&multiline=true&width=435&lines=Es+ist+nicht+von+Bedeutung%2C+wie+langsam+du+gehst%2C+solange+du+nicht+stehenbleibst)](https://git.io/typing-svg)
