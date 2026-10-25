@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="340" viewBox="0 0 1000 340" fill="none" role="img" aria-label="Yusif Israfilov — full-stack developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="340" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0A0C"/>
+      <stop offset="0.55" stop-color="#101013"/>
+      <stop offset="1" stop-color="#0A0A0C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(770 60) rotate(125) scale(520 420)">
+      <stop offset="0" stop-color="#F7A41D" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#F7A41D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="amber" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7A41D" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#F7A41D"/>
+      <stop offset="1" stop-color="#F7A41D" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="420" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F7A41D"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect x="1" y="1" width="998" height="338" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="340" fill="url(#bg)"/>
+    <rect width="1000" height="340" fill="url(#grid)"/>
+    <rect width="1000" height="340" fill="url(#glow)"/>
+
+    <!-- corner brackets -->
+    <path d="M1 60V21a20 20 0 0 1 20-20h39" stroke="#F7A41D" stroke-opacity="0.55" stroke-width="1.5"/>
+    <path d="M999 280v39a20 20 0 0 1-20 20h-39" stroke="#F7A41D" stroke-opacity="0.55" stroke-width="1.5"/>
+
+    <!-- eyebrow -->
+    <circle cx="66" cy="72" r="4" fill="#F7A41D">
+      <animate attributeName="opacity" values="1;0.15;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="82" y="77" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="3.4" fill="#8A8A93">AVAILABLE FOR COLLABORATION</text>
+
+    <!-- name -->
+    <text x="60" y="168" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="76" font-weight="700" letter-spacing="-1.5" fill="url(#nameFill)">YUSIF</text>
+    <text x="60" y="238" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="76" font-weight="700" letter-spacing="-1.5" fill="none" stroke="#6E6E78" stroke-width="1.4">ISRAFILOV</text>
+
+    <!-- animated rule -->
+    <rect x="60" y="262" width="880" height="1" fill="#FFFFFF" fill-opacity="0.07"/>
+    <rect x="60" y="262" width="300" height="1.6" fill="url(#amber)">
+      <animate attributeName="x" values="60;640;60" dur="9s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- roles -->
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" letter-spacing="0.6">
+      <text x="60" y="296" fill="#C9C9D1">full-stack developer</text>
+      <text x="237" y="296" fill="#F7A41D">/</text>
+      <text x="253" y="296" fill="#8A8A93">backend</text>
+      <text x="336" y="296" fill="#F7A41D">/</text>
+      <text x="352" y="296" fill="#8A8A93">frontend</text>
+      <text x="444" y="296" fill="#F7A41D">/</text>
+      <text x="460" y="296" fill="#8A8A93">audio</text>
+      <text x="523" y="296" fill="#F7A41D">/</text>
+      <text x="539" y="296" fill="#8A8A93">games</text>
+    </g>
+
+    <!-- terminal card -->
+    <g transform="translate(676 96)">
+      <rect width="264" height="150" rx="12" fill="#000000" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <path d="M0 32h264" stroke="#FFFFFF" stroke-opacity="0.09"/>
+      <circle cx="18" cy="17" r="4" fill="#F7A41D" fill-opacity="0.9"/>
+      <circle cx="34" cy="17" r="4" fill="#FFFFFF" fill-opacity="0.16"/>
+      <circle cx="50" cy="17" r="4" fill="#FFFFFF" fill-opacity="0.16"/>
+      <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5">
+        <text x="16" y="58" fill="#F7A41D">❯</text>
+        <text x="32" y="58" fill="#C9C9D1">whoami</text>
+        <text x="16" y="80" fill="#6E6E78">yusif@xeCore</text>
+        <text x="16" y="104" fill="#F7A41D">❯</text>
+        <text x="32" y="104" fill="#C9C9D1">cat stack</text>
+        <text x="16" y="126" fill="#8A8A93">python · ts · c++ · gd</text>
+      </g>
+      <rect x="32" y="132" width="7" height="12" fill="#F7A41D">
+        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="338.5" rx="20" stroke="#FFFFFF" stroke-opacity="0.10" stroke-width="1.5"/>
+</svg>
