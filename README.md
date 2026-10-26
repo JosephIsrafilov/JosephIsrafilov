@@ -6,10 +6,9 @@
 
 <div align="center">
 
-<a href="https://github.com/JosephIsrafilov/yolustu"><img src="https://img.shields.io/badge/Yolmates-live%20demo-2ea043?style=flat-square&labelColor=0A0A0C&logo=googlechrome&logoColor=F7A41D" /></a>
+<a href="https://github.com/JosephIsrafilov/yolustu"><img src="https://img.shields.io/badge/Yolmates-FastAPI%20%C2%B7%20Next.js-F7A41D?style=flat-square&labelColor=0A0A0C&logo=fastapi&logoColor=0A0A0C" /></a>
 <a href="https://github.com/JosephIsrafilov/Kicklock"><img src="https://img.shields.io/badge/KickLock-JUCE%20plugin-F7A41D?style=flat-square&labelColor=0A0A0C&logo=cplusplus&logoColor=0A0A0C" /></a>
 <a href="https://github.com/JosephIsrafilov/dead-wire"><img src="https://img.shields.io/badge/DEAD%20WIRE-Godot%204-F7A41D?style=flat-square&labelColor=0A0A0C&logo=godotengine&logoColor=0A0A0C" /></a>
-<a href="https://github.com/JosephIsrafilov/cetix"><img src="https://img.shields.io/badge/Cetix-Django-F7A41D?style=flat-square&labelColor=0A0A0C&logo=django&logoColor=0A0A0C" /></a>
 
 </div>
 
@@ -67,7 +66,6 @@ PostGIS route search and AI-assisted seat pricing via NVIDIA NIM.
 
 `FastAPI` `PostGIS` `Redis` `Next.js 16` `Flutter` `WebSockets`
 
-<a href="https://63.182.139.73.nip.io/"><img src="https://img.shields.io/badge/live-demo-2ea043?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <img src="https://img.shields.io/github/stars/JosephIsrafilov/yolustu?style=flat-square&label=stars&color=F7A41D&labelColor=1f1f1f" />
 
 </td>
@@ -95,17 +93,6 @@ shaders, environment art.
 </td>
 <td width="50%" valign="top">
 
-### [Cetix](https://github.com/JosephIsrafilov/cetix) ↗
-Habr-inspired publishing platform: moderation workflow, role-based
-permissions, threaded comments, dark theme.
-
-`Django` `Python` `PostgreSQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [RAG Chat](https://github.com/JosephIsrafilov/RAG-Chat-with-OpenAI-API) ↗
 Retrieval-augmented chat over your own documents — embeddings, vector
 search, TypeScript client.
@@ -113,16 +100,14 @@ search, TypeScript client.
 `OpenAI` `TypeScript` `vector search`
 
 </td>
-<td width="50%" valign="top">
-
-### [All repositories](https://github.com/JosephIsrafilov?tab=repositories) ↗
-Experiments, coursework and half-finished ideas. Some turned out useful.
-
-`25 public repositories`
-
-</td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<a href="https://github.com/JosephIsrafilov?tab=repositories"><b>All 25 repositories →</b></a>
+</div>
 
 ---
 
